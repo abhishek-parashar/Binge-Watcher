@@ -97,10 +97,10 @@ function load_details(my_api_key,title){
         get_movie_details(movie_id,my_api_key,movie_title,movie_title_org);
       }
     },
-    // error: function(error){
-    //   alert('Invalid Request - '+error);
-    //   $("#loader").delay(500).fadeOut();
-    // },
+    error: function(error){
+      alert('Invalid Request - '+error);
+      $("#loader").delay(500).fadeOut();
+    },
   });
 }
 
