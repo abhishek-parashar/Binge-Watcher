@@ -1,3 +1,24 @@
+/* width */
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #e50914; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000; 
+}
+
 .movie {
 	color: #fff;
 	margin-left: auto;
@@ -8,7 +29,7 @@
 .movie-content {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content:space-around;
+	justify-content:center;
 }
 
 .movie-content > div {
@@ -33,13 +54,22 @@
 	margin-left: 50px;
 }
 
+.body-content {
+	position: relative;
+  	min-height: 100%;
+}
+
 .footer {
 	color: #e4e0e0;
-	text-align:right;
+	background-color: #e50914d1;
+	text-align:center;
 	position: fixed;
- 	bottom: 20px;
- 	right: 20px;
+	bottom: 0;
  	width: 100%;
+}
+
+.social-icons {
+	margin-left: 15px;
 }
 
 h1 {
@@ -52,6 +82,25 @@ h1 {
 
 .github-corner:hover .octo-arm {
   	animation: octocat-wave 560ms ease-in-out;
+}
+
+.fa-arrow-up {
+	font-size: 1.5em;
+	color: #ffffff;
+    background: #e50914;
+    padding: 10px;
+	border-radius: 50%;
+	float: right;
+    bottom: 25px;
+    position: relative;
+}
+
+.fa-arrow-up:hover {
+	cursor: pointer;
+}
+
+.app-title:hover {
+	cursor: pointer;
 }
 
 @keyframes octocat-wave {
@@ -123,6 +172,17 @@ h6 {
 	svg[data-toggle=tooltip] {
 		width: 50px;
 		height: 50px;
+	}
+
+	.fa-arrow-up{
+		font-size: 1em;
+		color: #ffffff;
+		background: #e50914;
+		padding: 10px;
+		border-radius: 50%;
+		float: right;
+		bottom: 10px;
+		position: relative;
 	}
 }
 
