@@ -7,7 +7,9 @@ A Movie Recommendation and review system. Data taken from IMDB. Used collaborati
 <p align='center'>
 <img src="https://github.com/abhishek-parashar/Binge-Watcher/blob/main/static/Images/1.jpeg">
 </p>
+
 - Details about the cast and information about the cast
+
 <p align='center'>
 <img src="https://github.com/abhishek-parashar/Binge-Watcher/blob/main/static/Images/2.jpeg">
 </p>
@@ -17,11 +19,15 @@ A Movie Recommendation and review system. Data taken from IMDB. Used collaborati
 <p align='center'>
 <img src="https://github.com/abhishek-parashar/Binge-Watcher/blob/main/static/Images/4.jpeg">
 </p>
+
 - Reviews regarding the particular movie, Classification as positive or negative review
+
 <p align='center'>
 <img src="https://github.com/abhishek-parashar/Binge-Watcher/blob/main/static/Images/5.jpeg">
 </p>
+
 - Recommended movies, Movies similar to the particular movie.
+
 <p align='center'>
 <img src="https://github.com/abhishek-parashar/Binge-Watcher/blob/main/static/Images/6.jpeg">
 </p>
