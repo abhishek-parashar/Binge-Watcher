@@ -78,7 +78,7 @@ The following dependencies can be found in [requirements.txt](https://github.com
 ### Recommendation System developed using Cosine similarity (Collaborative Filtering) 
 
 ### References
-#### 2. For Building machine learning model:
+#### For Building machine learning model:
 1. https://medium.com/themlblog/splitting-csv-into-train-and-test-data-1407a063dd74
 2. https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568
 3. https://medium.com/@robert.salgado/multiclass-text-classification-from-start-to-finish-f616a8642538
@@ -86,7 +86,7 @@ The following dependencies can be found in [requirements.txt](https://github.com
 5. https://www.districtdatalabs.com/text-analytics-with-yellowbrick
 6. Applied AI course- https://www.appliedaicourse.com/
 
-#### 3.For Building the Website and Deploying it:
+#### For Building the Website and Deploying it:
 1.	https://towardsdatascience.com/designing-a-machine-learning-model-and-deploying-it-using-flask-on-heroku-9558ce6bde7b
 2.	https://towardsdatascience.com/deploying-a-deep-learning-model-on-heroku-using-flask-and-python-769431335f66
 3.	https://medium.com/analytics-vidhya/deploy-machinelearning-model-with-flask-and-heroku-2721823bb653
@@ -94,3 +94,5 @@ The following dependencies can be found in [requirements.txt](https://github.com
 5.	https://www.youtube.com/watch?v=mrExsjcvF4o
 6.	https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7
 
+#### Complete Tutorial:
+https://youtu.be/8KO-rdsWMjk
